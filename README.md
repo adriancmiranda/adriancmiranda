@@ -125,4 +125,8 @@ Develop clear and clean codes to align animations with User Interface features.
 - You can check my personal projects and contributions [here](https://github.com/adriancmiranda), at [GitHub](https://github.com/). URL: https://github.com/adriancmiranda.
 - I run on the weekend.
 
+<img  width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adriancmiranda&layout=compact&theme=default" alt="Marcoant007" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=adriancmiranda&show_icons=true&theme=default" alt="Marcoant007"/> 
+
 <sub>[▴ Back to top](#)</sub>
